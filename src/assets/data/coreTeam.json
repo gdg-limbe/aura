@@ -1,7 +1,16 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Elcid Chawa",
+        "designation":"Community Manager / Software Developer",
+        "twitter":"https://twitter.com/vrijrajsingh",
+        "linkedin":"https://www.linkedin.com/in/chawa-fabu-elcid-chawa-54b5223b/",
+        "github":"https://github.com/Elcid-Chawa",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Paul Babila",
+        "designation":"Assistant Community Manager",
         "twitter":"https://twitter.com/vrijrajsingh",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
@@ -9,8 +18,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Ange Tafo",
+        "designation":"WTM Limbe Ambassador",
         "twitter":"https://twitter.com/vrijrajsingh",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
@@ -18,17 +27,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Zuo Bruno",
+        "designation":"Assistant Community Manager",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
@@ -36,17 +36,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Alber Ngondi",
+        "designation":"Events Manager",
         "twitter":"https://twitter.com/vrijrajsingh",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
